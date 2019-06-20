@@ -9857,7 +9857,7 @@ function () {
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!*****************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fpost&absolutePagePath=D%3A%5Ccoding%5Chello-next%5Cpages%5Cpost.js ***!
   \*****************************************************************************************************************/
@@ -9880,5 +9880,5 @@ module.exports = dll_6dc2816e14fab51b8269;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=post.js.map
